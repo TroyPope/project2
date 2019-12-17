@@ -1,5 +1,5 @@
 .about-main {
-    height: 700px;
+    height: 650px;
     margin: auto;
 }
 
@@ -21,6 +21,20 @@
 .audio p {
     font-family: 'Lato', sans-serif;
     padding: 10px;
+}
+
+.about-video {
+    height: 240px;
+    clear: right;
+}
+
+.about-pic {
+    height: 240px;
+    margin-top: 17px;
+}
+.about-pic img {
+    height: 100%;
+    width: 100%;
 }
 
 /******** End of Section Text*********/
